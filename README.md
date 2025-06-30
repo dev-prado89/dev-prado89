@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Jack (Pablo Emiliano Prado)
 
-<!--
-**dev-prado89/dev-prado89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💼 Currently seeking opportunities in Development and IT Support. Open to hybrid positions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 Technician & Aspiring Developer | Lover of C# and problem-solving.
+
+---
+
+📌 **Skills**
+- C#, WPF
+- SQL basics
+- Windows systems & networking
+- User support & troubleshooting
+
+---
+
+🛠️ **Projects**
+- [Calculator with Memory (C#/WPF)](link)
+- [Unit Converter (WIP)](link)
+
+---
+
+🎯 **Currently learning**
+- Python [In Progress]
+- Advanced C#
+
+---
+
+📫 **Contact**
+- [LinkedIn] www.linkedin.com/in/pabloprado89
+- pablo_emiliano_89@hotmail.com
+
+---
+
+😎 Always looking for new challenges and opportunities.
