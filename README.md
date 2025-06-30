@@ -1,39 +1,53 @@
-# 👋 Hi, I'm Jack (Pablo Emiliano Prado)
+# 👋 Hi there! / ¡Hola!
+
+## 🇺🇸 English
+
+Hi! I'm Pablo Emiliano Prado (but you can call me Jack).
+
+I'm an Electronics Technician with more than 10 years of experience in communication systems, maintenance, and user support. Currently learning and practicing software development to make a career change toward IT and programming.
+
+**🧭 Objectives**
+- Transition into IT / Software Development.
+- Contribute to collaborative projects.
+- Improve my skills in C#, SQL, and Python.
+- Build practical solutions with clean, maintainable code.
+
+**💻 Tech & Skills**
+- Windows 10/11 support.
+- Office365.
+- Networks and IP communication.
+- C# (WPF, basic SQL integration).
+- Learning Python.
+- Incident reporting and documentation.
+- User assistance and remote support.
+
+**🌐 Links**
+- [LinkedIn](https://www.linkedin.com/in/pablo-emiliano-prado-86130aa2/)
+- 📫 Contact: pablo_emiliano_89@hotmail.com
 
 ---
 
-💼 Currently seeking opportunities in Development and IT Support. Open to hybrid positions.
+## 🇪🇸 Español
 
----
+¡Hola! Soy Pablo Emiliano Prado (Jack para los amigos).
 
-💻 Technician & Aspiring Developer | Lover of C# and problem-solving.
+Soy Técnico Electrónico con más de 10 años de experiencia en sistemas de comunicación, mantenimiento y soporte a usuarios. Actualmente estoy aprendiendo y practicando desarrollo de software para cambiar de rumbo hacia el área de IT y la programación.
 
----
+**🧭 Objetivos**
+- Transicionar al área de IT / Desarrollo de Software.
+- Contribuir en proyectos colaborativos.
+- Mejorar mis habilidades en C#, SQL y Python.
+- Desarrollar soluciones prácticas con código limpio y mantenible.
 
-📌 **Skills**
-- C#, WPF
-- SQL basics
-- Windows systems & networking
-- User support & troubleshooting
+**💻 Tecnologías y Conocimientos**
+- Soporte Windows 10/11.
+- Office365.
+- Redes y comunicación IP.
+- C# (WPF, integración básica con SQL).
+- Aprendiendo Python.
+- Documentación y gestión de incidentes.
+- Asistencia al usuario y soporte remoto.
 
----
-
-🛠️ **Projects**
-- [Calculator with Memory (C#/WPF)](link)
-- [Unit Converter (WIP)](link)
-
----
-
-🎯 **Currently learning**
-- Python [In Progress]
-- Advanced C#
-
----
-
-📫 **Contact**
-- [LinkedIn] www.linkedin.com/in/pabloprado89
-- pablo_emiliano_89@hotmail.com
-
----
-
-😎 Always looking for new challenges and opportunities.
+**🌐 Enlaces**
+- [LinkedIn](https://www.linkedin.com/in/pablo-emiliano-prado-86130aa2/)
+- 📫 Contacto: pablo_emiliano_89@hotmail.com
